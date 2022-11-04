@@ -1,0 +1,34 @@
+body {
+    
+}
+
+#banner {
+    width: 100%;
+}
+
+.principal {
+    background: #CCCCCC
+    padding: 20px; 
+}
+
+.titulo-principal{
+    padding-left: 35px;
+} 
+
+.titulo-centralizado{
+    text-align: center
+}
+
+.titulo-de-contato{
+    background-color: #C78C19;
+    font-size: 34px;
+}
+
+p {
+    text-align: center;
+ }
+
+#em strong{
+	color: #FF0000;
+}
+
